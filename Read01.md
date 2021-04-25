@@ -20,6 +20,26 @@
 4. The element: The opening tag, the closing tag, and the content together comprise the element.
 
 **HTML Extra Markup:**
+<<<<<<< HEAD
+=======
+
+**Markup** *is what HTML tags do to the text inside of them; they mark it as a specific type of text. For example, markup text could come in the form of boldface or italicized type to draw specific attention to a word or phrase.*
+**A markup** *tag is a directive that contains snippet of code with a relative reference to an object in your store such as a variable, URL, image, or block. Markup tags can be used anywhere the editor is available and incorporated into the HTML of email and newsletter templates, as well as other types of content.*
+
+
+**HTML Layout Elements**
+
+![IMG](https://www.freetimelearning.com/html5/images/html5-basic-Layout.jpg)
+
+HTML has several semantic elements that define the different parts of a web page:
+* HTML5 Semantic Elements	:
+  * **<header>** - Defines a header for a document or a section
+  * **<nav>** - Defines a set of navigation links
+  * **<section>** - Defines a section in a document
+  * **<article>** - Defines an independent, self-contained content
+  * **<footer>** - Defines a footer for a document or a section
+  
+>>>>>>> 6125108c2469ea009ce6ab7bc8596ba9f3dedfd9
 
 **Markup** *is what HTML tags do to the text inside of them; they mark it as a specific type of text. For example, markup text could come in the form of boldface or italicized type to draw specific attention to a word or phrase.*
 **A markup** *tag is a directive that contains snippet of code with a relative reference to an object in your store such as a variable, URL, image, or block. Markup tags can be used anywhere the editor is available and incorporated into the HTML of email and newsletter templates, as well as other types of content.*
