@@ -4,4 +4,4 @@
 ![img](https://cdn1.iconfinder.com/data/icons/popicon-education/256/10-512.png)
 
 ## **Contents:**
-- [Read01](https://app.slack.com/client/TNGRRLUMA/C0204N1MTQQ)
+- [Read01](https://heba1998.github.io/Reading-note-201/Read01)
