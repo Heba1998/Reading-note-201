@@ -9,5 +9,5 @@
 | #Read     | URL |
 | ----------- | ----------- |
 | Read01    | [Read01](https://heba1998.github.io/Reading-note-201/Read01)     |
-|Read02   |        |
+|Read02   |       [Read02](https://heba1998.github.io/Reading-note-201/Read02) |
 
