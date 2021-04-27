@@ -12,7 +12,7 @@
 
 *HTML lists are used to present list of information in well formed and semantic way.*
 
-HTML have three different types to defined a list: 
+**HTML have three different types to defined a list:**
 1. **Ordered lists** are lists where each item in the list is
 numbered. For example, the list might be a set of steps for
 a recipe that must be performed in order, or a legal contract
