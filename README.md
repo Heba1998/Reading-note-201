@@ -17,3 +17,4 @@
 |Read07   |       [Read07](https://heba1998.github.io/Reading-note-201/Read07) |
 |Read08   |       [Read08](https://heba1998.github.io/Reading-note-201/Read08) |
 |Read09   |       [Read09](https://heba1998.github.io/Reading-note-201/Read09) |
+|Read10   |       [Read10](https://heba1998.github.io/Reading-note-201/Read10) |
