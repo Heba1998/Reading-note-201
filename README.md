@@ -19,3 +19,4 @@
 |Read09   |       [Read09](https://heba1998.github.io/Reading-note-201/Read09) |
 |Read10   |       [Read10](https://heba1998.github.io/Reading-note-201/Read10) |
 |Read11   |       [Read11](https://heba1998.github.io/Reading-note-201/Read11) |
+|Read12   |       [Read12](https://heba1998.github.io/Reading-note-201/Read12) |
