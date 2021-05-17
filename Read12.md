@@ -30,12 +30,12 @@
     * we can specify a **fallback** content to `<canvas>` tag in case of browsers versions issues.
     * require the closing tag.
     * there are a **2d** redering context.
-    * the canvace is initially blanck, we use `getContext()`, which a method in canvas element, to draw some thing.
+    * the canvas is initially blank, we use `getContext()`, which a method in canvas element, to draw some thing.
 
 * DRAWING SHAPES WITH CANVAS:
     * grid
     * rectangle
-    * drawing pathes
+    * drawing paths
     * drawing a triangle
     * moving the pen
     * lines
